@@ -1,13 +1,14 @@
 'use strict';
-
+// let alert massig with the user inbot 
 let userName = prompt('Your Name ?');
 console.log(userName);
 alert('wellcome '+ userName);
 
-
+// yes or no (Q)
 
 let q1 = prompt('Do you like physics?');
 console.log(q1);
+//use .tolowerCse() method
 if(q1.toLowerCase() === 'yes' || q1.toLowerCase() === 'y'){
     alert('You are look like me');
 }else if(q1.toLowerCase() ==='no'|| q1.toLowerCase() === 'n'){
@@ -57,5 +58,5 @@ alert('You are not like me');
 }else{
     alert('Nice to meet you'+ userName);
 }
-
+// end alert with username inpot
 alert('Nice to meet you'+ userName);
