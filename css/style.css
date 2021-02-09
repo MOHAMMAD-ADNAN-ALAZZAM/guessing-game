@@ -11,10 +11,10 @@ body {
 
 
         body {
-            background: #1C6EA4;
-            background: -moz-linear-gradient(45deg, #1C6EA4 0%, #2388CB 72%, #144E75 100%);
-            background: -webkit-linear-gradient(45deg, #1C6EA4 0%, #2388CB 72%, #144E75 100%);
-            background: linear-gradient(45deg, #1C6EA4 0%, #2388CB 72%, #144E75 100%);
+            background: #7b8e9c;
+            background: -moz-linear-gradient(45deg, #768c9b 0%, #809aac 72%, #7697ad 100%);
+            background: -webkit-linear-gradient(45deg, #899aa5 0%, #738692 72%, #748997 100%);
+            background: linear-gradient(45deg, #7b8a94 0%, #879aa7 72%, #83939e 100%);
             }
             body {
               min-height: 150px;
