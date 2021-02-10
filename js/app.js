@@ -153,71 +153,17 @@ function q6(){
                 break
             }
         }
+        alert(arrayAnsw);
         alert('your  score '+  score);
         document.write('your  score'+ score);
-        
-        // let arr =['Pizza','Burger'];
-        // let test = false;
-    
-        // for (let i = 0; i <6 ; i++){
-           
-        //     let fav =prompt('Guess my favorite meal?');
-        //     fav = fav.toLowerCase();
-    
-        //     for (let j = 0; j < arr.length; j++){
-        //         if (fav === arr[j]){
-        //             test = true;
-        //             alert('correct answer');
-        //             break
-        //         }
-               
-        //     }
-        //     if (test === true){
-        //         break
-        //     }
-    
-        // }
+      
         // return;
     }
     q7();
 
 
 
-    // document.write(arr);
-   
     
-// let arr =['Pizza','Burger']; 
-// let fav = prompt('Guess my favorite meal?');
-// fav =parseInt(fav);
-// console.log(fav);
-
-// let m1 = 1;
-// while(m1!==6){
-   
-//         if(fav === arr){
-
-//             alert('correct answer');
-
-//         }else{
-            
-//             alert('wrong answer! try again ' + arr);
-            
-//             document.write('correct answer ' + arr);
-
-//              break;
-//         }
-//        fav = prompt('Guess my favorite meal?');
-
-//        m1++;
-       
-    
-//     }
-    
-//     alert('the correct answer is' + arr);
-//     document.write('correct answer ' + arr);
-
-
-
 
 
 
