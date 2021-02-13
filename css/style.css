@@ -1,19 +1,19 @@
 
+
 body {
-  padding: 50px 20px; 
+  background: #557088 url("https://pressstart.vip/images/uploads/assets/cityskyline.png") no-repeat scroll 50% 50%;
+  }
+
+body {
+  padding: 30px 30px; 
  }
 
    body main div p {
-        text-shadow: 5px 5px 5px #570b15;
+        text-shadow: 7px 7px 7px #f31717;
+      
         }
 
 
-        body {
-            background: #7b8e9c;
-            background: -moz-linear-gradient(45deg, #768c9b 0%, #809aac 72%, #7697ad 100%);
-            background: -webkit-linear-gradient(45deg, #899aa5 0%, #738692 72%, #748997 100%);
-            background: linear-gradient(45deg, #7b8a94 0%, #879aa7 72%, #83939e 100%);
-            }
             body main {
               min-height: 150px;
               text-align: center;
@@ -26,14 +26,27 @@ body {
 
 
             body main div p {
-                border: 10px dashed rgba(97, 87, 64, 0.918);
+                border: 8px dashed rgba(97, 43, 89, 0.918);
                 }
 
                 body header nav img {
-                  border: 10px dashed rgba(129, 41, 6, 0.918);
+                  border: 5px dashed rgba(204, 58, 0, 0.918);
                   position: fixed;
                   
                   }
+
+                  body {
+                    font-family: "Comic Sans MS", cursive, sans-serif;
+                    font-size: 13px;
+                    letter-spacing: 1px;
+                    word-spacing: 1px;
+                    color: #000000;
+                    font-weight: 400;
+                    text-decoration: none;
+                    font-style: italic;
+                    font-variant: normal;
+                    text-transform: none;
+                    }
 
 
 
